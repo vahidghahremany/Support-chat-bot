@@ -39,9 +39,8 @@ This section highlights my expertise in **Vue.js** and advanced **Front-End Engi
 
 * **Front-End Framework:** Vue 3
 * **Build Tool:** Vite
-* **State Management:** Pinia / Vuex
 * **Language:** JavaScript (ES6+)
-* **Styling:** SCSS / CSS Modules (or Tailwind CSS)
+* **Styling:** CSS Modules 
 
 ---
 
