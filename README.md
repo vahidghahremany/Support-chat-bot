@@ -60,10 +60,6 @@ This section highlights my expertise in **Vue.js** and advanced **Front-End Engi
     -   [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
     -   [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
 
-### Installation
-
-```sh
-npm install
 
 ## Recommended IDE Setup
 
