@@ -1,6 +1,37 @@
-# chat-bot
+# 🛍️ Smart Support Chatbot
 
-This template should help get you started developing with Vue 3 in Vite.
+A custom-built support chatbot for e-commerce websites made with Vue.js—without using any third-party libraries.  
+Unlike conventional option-based chatbots, this bot allows free-text user input and provides context-aware, keyword-based responses, helping to build trust with users.
+
+---
+
+## 🌟 Key Features
+
+- 📝 Free-text user input  
+  Users can type their questions freely instead of choosing from predefined options.
+
+- 🔍 Keyword-based intelligent responses  
+  The bot searches the user's input for custom-defined keywords and provides accurate and relevant answers.
+
+- 🤝 Trust-building interactions  
+  Designed to offer natural and meaningful conversations, creating confidence in the users.
+
+- ⚡ Lightweight & fast  
+  Pure Vue.js implementation with no external libraries, making it easy to integrate into any website.
+
+- 🎨 Customizable UI  
+  Simple, clean, and responsive chat interface that can be easily styled to match the website.
+
+---
+
+## 🛠 Technologies Used
+
+- Vue.js 3 (Composition API)
+- HTML5 & CSS3
+- Vanilla JavaScript
+- No external libraries or frameworks
+
+---
 
 ## 🎬 Live Preview
 
