@@ -35,7 +35,7 @@ Unlike conventional option-based chatbots, this bot allows free-text user input 
 
 ## 🎬 Live Preview
 
-<video src="https://github.com/user-attachments/assets/fdc40b03-2d43-4c4e-ad29-c19032d4d9b4" controls width="600"></video>
+<video src="https://github.com/user-attachments/assets/a59b65d8-c3b0-4311-ae55-6f1520c0e1fd" controls width="600"></video>
 
 ## Recommended IDE Setup
 
